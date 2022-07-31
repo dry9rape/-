@@ -1,10 +1,10 @@
 ## SM3 生日攻击
 
-找到前8位碰撞![image-20220730182000961](C:\Users\Laotie666\AppData\Roaming\Typora\typora-user-images\image-20220730182000961.png)
+找到前8位碰撞![](https://github.com/dry9rape/projects/raw/main/SM3_birthday_attack/ver_2/生日攻击前8位碰撞.png)
 
 前16位碰撞
 
-![image-20220730182020869](C:\Users\Laotie666\AppData\Roaming\Typora\typora-user-images\image-20220730182020869.png)
+![](https://github.com/dry9rape/projects/raw/main/SM3_birthday_attack/ver_2/生日攻击前16位碰撞.png)
 
 电脑规格
 
