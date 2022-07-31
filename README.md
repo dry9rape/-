@@ -4,6 +4,8 @@
 宋诺金 https://github.com/NuoJin1229<br>
 王子兴 https://github.com/dry9rape<br>
 周致远 <br>
+## 已完成项目：
+
 ## 贡献：
 金周泉：SM3 生日攻击(ver 1)，SM3 Rho攻击<br>
 宋诺金：SM4实现及优化，MPT探究<br>
