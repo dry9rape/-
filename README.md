@@ -32,5 +32,5 @@ The commitment scheme used by MoE is SHA256-based<br>
 金周泉：SM3 生日攻击(ver 1)，SM3 Rho攻击<br>
 宋诺金：SM4实现及优化，MPT探究<br>
 王子兴：SM3实现，SM3 长度扩展攻击<br>
-周致远：SM3 生日攻击(ver 2)
+周致远：SM3 生日攻击(ver 2)<br>
 (所有项目均为组内成员发送给仓库所有者，由仓库所有者上传至仓库）
