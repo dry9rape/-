@@ -1,7 +1,7 @@
 # 网络空间安全创新创业实践课程项目
 ## 小组成员：
 金周泉 https://github.com/zhanyue1236<br>
-宋诺金 <br>
+宋诺金 https://github.com/NuoJin1229<br>
 王子兴 https://github.com/dry9rape<br>
 周致远 <br>
 ## 贡献：
