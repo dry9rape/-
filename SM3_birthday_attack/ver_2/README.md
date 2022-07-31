@@ -1,5 +1,5 @@
 ## SM3 生日攻击
-#实现者：周致远
+# 实现者：周致远
 
 找到前8位碰撞![](https://github.com/dry9rape/projects/raw/main/SM3_birthday_attack/ver_2/生日攻击前8位碰撞.png)
 
